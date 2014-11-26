@@ -1,0 +1,16 @@
+{
+  "teamName": "j2",
+  "members": [
+    {
+      "name": "Prateek Singh",
+      "koding": "beawesome",
+      "location": "Sultanpur, IN",
+       "lead": true
+    },
+    {
+      "name": "Prashant Singh",
+      "koding": "prashantsingh1",
+      "location": "Sultanpur, IN"
+    }
+  ]
+}
